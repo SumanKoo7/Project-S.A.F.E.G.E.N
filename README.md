@@ -1,6 +1,6 @@
-# 🔥 Project-S.A.F.E.G.E.N: Smart Automated Fire Emergency Guardian with Enhanced Notification
+# 🔥 Project-SAFEGEN: Smart Automated Fire Emergency Guardian
 
-![Project-SAFEGEN Banner](https://via.placeholder.com/800x200.png?text=Project-SAFEGEN)
+![Project-SAFEGEN Banner](SAFEGEN.png)
 
 ## 📖 Overview
 
@@ -33,7 +33,7 @@ The fire detection model is trained on a dataset from [Roboflow Universe](https:
 *Example of fire detection with YOLOv8 bounding boxes.*
 
 ### 🎥 Demo GIF
-![Fire Detection GIF](images/demo.gif)
+![Fire Detection GIF](SAFEGEN.gif)
 
 *Real-time fire detection and notification in action.*
 
@@ -41,5 +41,5 @@ The fire detection model is trained on a dataset from [Roboflow Universe](https:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SumanKoo7/Project-SAFEGEN.git
+   git clone https://github.com/your-username/Project-SAFEGEN.git
    cd Project-SAFEGEN
