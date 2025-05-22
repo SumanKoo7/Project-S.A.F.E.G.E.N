@@ -1,10 +1,10 @@
-# 🔥 Project-SAFEGEN: Smart Automated Fire Emergency Guardian
+# 🔥 Project-S.A.F.E.G.E.N: Smart Automated Fire Emergency Guardian with Enhanced Notification
 
-![Project-SAFEGEN Banner](SAFEGEN.png)
+![Project-SAFEGEN Banner](S.A.F.E.G.E.N.png)
 
 ## 📖 Overview
 
-**Project-SAFEGEN** (Smart Automated Fire Emergency Guardian with Enhanced Notification) is an autonomous fire detection system designed to identify fires in real-time and send instant notifications. Built with **Python**, **Ultralytics YOLOv8**, **SMTP**, and **Twilio**, it leverages advanced computer vision and communication technologies to enhance fire safety. The model is trained on a fire detection dataset from **Roboflow Universe**.
+**Project-S.A.F.E.G.E.N** (Smart Automated Fire Emergency Guardian with Enhanced Notification) is an autonomous fire detection system designed to identify fires in real-time and send instant notifications. Built with **Python**, **Ultralytics YOLOv8**, **SMTP**, and **Twilio**, it leverages advanced computer vision and communication technologies to enhance fire safety. The model is trained on a fire detection dataset from **Roboflow Universe** on Google Colab Notebook Using T4 GPU.
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ The fire detection model is trained on a dataset from [Roboflow Universe](https:
 ## 🖼️ Demo
 
 ### 📷 Demo Photo
-![Fire Detection Demo](images/demo_photo.jpg)
+![Fire Detection Demo](test.jpg)
 
 *Example of fire detection with YOLOv8 bounding boxes.*
 
@@ -37,9 +37,8 @@ The fire detection model is trained on a dataset from [Roboflow Universe](https:
 
 *Real-time fire detection and notification in action.*
 
-## ⚙️ Installation
+## 📓 Model Training Notebook
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/Project-SAFEGEN.git
-   cd Project-SAFEGEN
+A Jupyter Notebook is included to guide you through training the YOLOv8 model for fire detection.
+
+- **Notebook**: [SAFEGEN_Model_Training.ipynb](SAFEGEN_Model_Training.ipynb)
